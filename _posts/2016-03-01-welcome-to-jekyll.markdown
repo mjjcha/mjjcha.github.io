@@ -17,5 +17,6 @@ print_hi('Tom')
 {% endhighlight %}
 
 
-http://markandrewholmes.com/hal9000.jpg
+<img src="http://markandrewholmes.com/hal9000.jpg" />
+
 
