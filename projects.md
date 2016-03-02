@@ -10,7 +10,7 @@ Really, I'm pretty fond of them, not because I think they're particularly good, 
 
 My little Frankenstein monsters, so to speak.
 
-This is [Hom] ({homm.herkouapp.com}), my final project from Lighthouse Labs.
+This is [Hom] {{homm.herkouapp.com}}, my final project from Lighthouse Labs.
 [Steph] ({github.com/stephchuolee}), [Sumit] ({github.com/sumitsekhri}), [Ryan] ({github.com/kludgemaster}) and I worked on it for approx 2 weeks. 
 
 This is [Pamoja] ({pamoja.herokuapp.com}), my midterm project from the same bootcamp.
